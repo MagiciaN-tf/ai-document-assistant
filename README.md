@@ -13,7 +13,13 @@ An interactive web application built with Python, Streamlit, and Google's Gemini
 - **Document Parsing:** `pypdf`
 
 ## 🚀 Getting Started
+
 1. Clone the repository:
-   ```bash
-   git clone [https://github.com/MagiciaN-tf/ai-document-assistant.git](https://github.com/MagiciaN-tf/ai-document-assistant.git)
-   cd ai-document-assistant
+git clone https://github.com/MagiciaN-tf/ai-document-assistant.git
+cd ai-document-assistant
+
+2. Install dependencies:
+pip install -r requirements.txt
+
+3. Run the application:
+streamlit run app.py
