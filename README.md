@@ -15,7 +15,7 @@ An interactive web application built with Python, Streamlit, and Google's Gemini
 ## 🚀 Getting Started
 
 1. Clone the repository:
-git clone https://github.com/MagiciaN-tf/ai-document-assistant.git
+git clone https://github.com/talhauddinfarooqui/ai-document-assistant.git
 cd ai-document-assistant
 
 2. Install dependencies:
